@@ -59,11 +59,11 @@ I enjoy working on **server-side logic, APIs, and database-driven systems** rath
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 GitHub Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udit932003&theme=neon&hide_border=true&include_all_commits=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=udit932003&theme=neon&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udit932003&theme=neon&hide_border=true&layout=compact)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 

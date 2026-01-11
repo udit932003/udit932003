@@ -67,11 +67,13 @@ I enjoy working on **server-side logic, APIs, and database-driven systems** rath
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=udit932003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- ⭐ Active Open-Source Contributor  
+- 🔥 Consistent GitHub Commits  
+- 💻 Java & Spring Boot Developer  
+- 🚀 Backend & API Development  
 
----
 
 ### ✍️ Developer Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

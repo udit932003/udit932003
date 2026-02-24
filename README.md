@@ -2,69 +2,66 @@
 
 ## 👋 Hi, I'm Udit
 
-🚀 Full Stack Developer (React.js + Spring Boot)  
-💻 Backend-focused developer passionate about building scalable systems.
+🚀 Full Stack Developer (React.js + Node.js)  
+💻 Passionate about building scalable web applications and solving real-world problems with clean code.
 
-I build modern web applications using React for frontend and Spring Boot / Node.js for backend, with MySQL for database management.
+I specialize in building modern full-stack applications using **React** for frontend and **Node.js / Express** for backend, with **MySQL** for database management.  
 
-I enjoy designing REST APIs, handling backend logic, and working with databases to create real-world applications.
+I have also explored **Java** and **Spring Boot** as alternative technologies and enjoy learning new backend frameworks.
 
 ---
 
 ## 🔭 What I'm Working On
-- Building RESTful APIs using Spring Boot
-- Full-stack applications (React + Backend + MySQL)
-- Improving backend architecture & system design
-- Learning Microservices fundamentals
+- Full-stack web applications (React + Node.js + MySQL)  
+- Backend architecture and RESTful APIs  
+- Learning advanced Java & Spring Boot concepts  
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced Spring Boot
-- Microservices Architecture
-- Clean Code & Design Patterns
-- Production-level backend development
+- Advanced Node.js & Express  
+- Building REST APIs with best practices  
+- Production-level full-stack development  
+- Core Java fundamentals and Spring Boot basics  
 
 ---
 
 ## 💬 Ask Me About
-- Java & OOP Concepts
-- Spring Boot & REST APIs
-- Node.js Backend Development
-- MySQL & Database Design
-- Full Stack Project Structure
+- React.js & Frontend Development  
+- Node.js / Express Backend  
+- MySQL Database Design  
+- Full-stack project structure  
+- Java & Spring Boot (side knowledge)  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 🚀 Backend
-- Java
-- Spring Boot
-- Node.js
-- Express.js
-- REST APIs
+- Node.js  
+- Express.js  
+- REST APIs  
 
 ### 🎨 Frontend
-- React.js
-- HTML5
-- CSS3
-- JavaScript
+- React.js  
+- HTML5  
+- CSS3  
+- JavaScript  
 
 ### 🛢 Database
-- MySQL
+- MySQL  
 
 ### ⚙️ Tools
-- Git
-- GitHub
-- Postman
+- Git  
+- GitHub  
+- Postman  
 
 ---
 
 ## 🎯 Career Focus
-Backend-heavy Full Stack Development  
-Building scalable and production-ready applications.
+Full Stack Web Development with React & Node.js  
+Building scalable, user-friendly, and production-ready applications.
 
 ---
 
-⚡ Fun Fact: I prefer designing backend logic more than UI styling.
+⚡ Fun Fact: I enjoy creating real backend systems and connecting them with clean React interfaces.
